@@ -1,0 +1,14 @@
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\bin\Debug\net8.0\task2.exe
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\bin\Debug\net8.0\task2.deps.json
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\bin\Debug\net8.0\task2.dll
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\bin\Debug\net8.0\task2.pdb
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.dll
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\refint\task2.dll
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.pdb
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\Users\Kredo\Desktop\lab2c#\tasks\task2\obj\Debug\net8.0\ref\task2.dll

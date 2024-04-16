@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSjQBBaP99Z5GH/HlbRgne6pH9zF3ZJuGwCSlI/74gOxNXdbmMOWeQmxZUcFZgWxgIk5/89xJB06FaUL+07PRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kredo\\Desktop\\lab1c#\\_353505_Danilau\\_353505_Danilau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kredo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kredo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kredo\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kredo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kredo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

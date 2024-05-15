@@ -69,4 +69,29 @@
     {
         return new CharSet(s.ToCharArray());
     }
+
+    public static CharSet operator ++(CharSet a)
+    {
+        return new CharSet(a._chars.Concat(new char[] { '1' }).ToArray());
+    }
+
+    public static CharSet operator --(CharSet a)
+    {
+        return new CharSet(a._chars.Take(a._chars.Length - 1).ToArray());
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is CharSet)
+        {
+            CharSet other = (CharSet)obj;
+            return this == other;
+        }
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        return _chars.GetHashCode();
+    }
 }

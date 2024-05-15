@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using System.Collections.Generic;
+
 class Program
 {
     static void Main()
@@ -28,5 +28,11 @@ class Program
 
         CharSet set3 = (CharSet)"efg";
         Console.WriteLine("Set3: " + set3);
+
+        set1++;
+        Console.WriteLine("Set1 after increment: " + set1);
+
+        set2--;
+        Console.WriteLine("Set2 after decrement: " + set2);
     }
 }

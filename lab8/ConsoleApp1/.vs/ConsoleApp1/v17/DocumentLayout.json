@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\downloads\\la8\\consoleapp1\\consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\consoleapp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\consoleapp1\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\consoleapp1\\absdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\absdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\consoleapp1\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A43E30-6590-4731-BD30-450E30A88A5C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-22T12:36:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\Store.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Store.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\Store.cs",
+              "RelativeToolTip": "ConsoleApp1\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:35:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Product.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\Product.cs",
+              "RelativeToolTip": "ConsoleApp1\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:35:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\NoDiscount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NoDiscount.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\NoDiscount.cs",
+              "RelativeToolTip": "ConsoleApp1\\NoDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:34:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbsDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\AbsDiscount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AbsDiscount.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\AbsDiscount.cs",
+              "RelativeToolTip": "ConsoleApp1\\AbsDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:33:58.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrice.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\IPrice.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IPrice.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\IPrice.cs",
+              "RelativeToolTip": "ConsoleApp1\\IPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:33:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Downloads\\la8\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:31:16.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_353505_Andrianov_9.Chopper">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chopper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353505_Andrianov_9.KitchenProcessor" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAQAAAAAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>KitchenProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_353505_Andrianov_9.KitchenProcessorBuilder" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgQAAAAAAAAAAACAAAAQAAAAQBAAAAA=</HashCode>
+      <FileName>KitchenProcessorBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353505_Andrianov_9.KitchenProcessorFactory" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAA=</HashCode>
+      <FileName>KitchenProcessorFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_353505_Andrianov_9.MeatGrinder" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MeatGrinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353505_Andrianov_9.MultiFunctionalProcessor" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEgAAAAAAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>MultiFunctionalProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_353505_Andrianov_9.ICommonFunctions" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_353505_Andrianov_9.IMixer" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_353505_Andrianov_9.IBlender" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_353505_Andrianov_9.ITestomeshalka" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_353505_Andrianov_9.IKitchenProcessorFactory" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

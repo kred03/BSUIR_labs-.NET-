@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\chopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\chopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\kitchenprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\kitchenprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\kitchenprocessorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\kitchenprocessorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\kitchenprocessorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\kitchenprocessorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\meatgrinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\meatgrinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\multifunctionalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\multifunctionalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kredo\\desktop\\lab9\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF17D3D-3F47-43A6-8FD4-DD5747327B6C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleApp1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-24T04:54:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chopper.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\Chopper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Chopper.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\Chopper.cs",
+              "RelativeToolTip": "ConsoleApp1\\Chopper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:52:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\Interfaces.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\Interfaces.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:52:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KitchenProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\KitchenProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\KitchenProcessor.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\KitchenProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\KitchenProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:51:51.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KitchenProcessorBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\KitchenProcessorBuilder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\KitchenProcessorBuilder.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\KitchenProcessorBuilder.cs",
+              "RelativeToolTip": "ConsoleApp1\\KitchenProcessorBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:51:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KitchenProcessorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\KitchenProcessorFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\KitchenProcessorFactory.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\KitchenProcessorFactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\KitchenProcessorFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:50:51.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeatGrinder.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\MeatGrinder.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MeatGrinder.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\MeatGrinder.cs",
+              "RelativeToolTip": "ConsoleApp1\\MeatGrinder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:50:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiFunctionalProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\MultiFunctionalProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MultiFunctionalProcessor.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\MultiFunctionalProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\MultiFunctionalProcessor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:49:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\lab9\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:48:49.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
